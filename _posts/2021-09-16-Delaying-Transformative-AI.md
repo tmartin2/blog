@@ -4,18 +4,16 @@ title: "Rough Estimate: Delaying Transformative AI"
 date: 2021-09-16 14:28:44 -0000
 ---
 
-Note: This is a question I was given on the a test task for a remote internship position that focused on AI alignment. I got an interview for the position, but never heard back from the team, so I do not think I was accepted. I spent roughly two hours composing my response. Here is the question:
+__Note__: This is a question I was given on the a test task for a remote internship position that focused on AI alignment. I got an interview for the position, but never heard back from the team, so I do not think I was accepted. I spent roughly two hours composing my response. Here is the question:
 
 _What is the expected value (or disvalue) from transformative artificial intelligence counterfactually being delayed by one year? Assume that all other projects are not delayed._
 
 - Interpret “value” to be from your own ethical perspective.
 - Briefly explain your biggest sources of uncertainty and what you’d spend more time on if you had more time.
 
-Here is my answer. As with my [AI regulation post](https://tmartin2.github.io/my-blog/2021/11/05/US-Europe-AI-regulation.html), I describe criticisms of my responses, and detail some considerations that I missed in my initial response.
+Here is my answer. At the end, I describe criticisms of my responses, and detail some considerations that I missed in my initial response.
 
 ## My Response
-
-(
 
 __Main Considerations__
 
