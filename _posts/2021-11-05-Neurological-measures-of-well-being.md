@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neurological Measures of Well-Being"
-date: 2021-09-16 14:28:44 -0000
+date: 2021-11-05 20:28:44 -0000
 ---
 
 _TL;DR - This essay introduces well-being, along with its uses and problems with its measurement, and considers how a measure of well-being based in neuronal processes might be valuable._
