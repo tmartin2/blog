@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Rough Estimate: U.S. and European AI Regulation"
-date: 2021-11-05 14:15:44 -0000
+date: 2021-11-04 14:15:44 -0000
 ---
 
 This is a question I was given on a test task after applying to
-a fellowship on AI policy. I spent roughly an hour writing my response.
-The question goes
+a fellowship on AI policy. I spent roughly an hour writing my response. The question goes
 
 _Would tighter regulation of AI technologies in the U.S. and Europe overall substantially reduce, substantially increase, or have little net effect on catastrophic risks? What considerations are important here? Note that your reasoning here is more important than getting a "right answer"._
 
