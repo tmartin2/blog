@@ -4,7 +4,7 @@ title: "Rough Estimate: Delaying Transformative AI"
 date: 2021-09-16 14:28:44 -0000
 ---
 
-__Note__: This is a question I was given on the a test task for a remote internship position that focused on AI alignment. I got an interview for the position, but never heard back from the team, so I do not think I was accepted. I spent roughly two hours composing my response. Here is the question:
+__Note__: This is a question I was given on a test task for a remote internship position that focused on AI alignment. I got an interview for the position, but never heard back from the team, so I do not think I was accepted. I spent roughly two hours composing my response. Here is the question:
 
 _What is the expected value (or disvalue) from transformative artificial intelligence counterfactually being delayed by one year? Assume that all other projects are not delayed._
 

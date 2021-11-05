@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Neurological Measures of Well-Being"
+date: 2021-09-16 14:28:44 -0000
+---
+
+_TL;DR - This essay introduces well-being, along with its uses and problems with its measurement, and considers how a measure of well-being based in neuronal processes might be valuable._
+
+In social situations, the oft asked inquiry - How are you? - is usually met with an answer analogous to I'm well, I'm good, or I'm okay. These responses are typically rattled off, but it's interesting to consider what exactly it means to be well or good or okay. How well is one in actuality, in any given moment, and is one's subjective estimate of this quantity predictably flawed? How does wellness fluctuate from person to person? To resolve these questions, a robust measure of well-being is needed.
+
+Most people would agree that they want to live a fulfilling and good life. Under the purview of research on well-being, __psychological well-being__ refers to qualities of fulfillment or life satisfaction; experiences that people perceive to make them happy but which they fail to perceive as hedonic fall within the scope of this form of well-being, which can also be called eudaemonic well-being.
+
+Contrast this with research on __subjective well-being__, which attempts to characterize how pleasurable a person's life is. This characterization involves estimating a person's well-being as a function of the quantities of positive affect and the absence of negative affect in their life, along with their subjective estimates of life contentment. This form of well-being closely aligns with earlier philosophical thinking on hedonism.
+
+Historically, researchers have been clear in delimiting which of these two conceptualizations of well-being underlie the formulation of the self-report questionnaires, which are the primary instrument for gauging well-being, and analyses they use. More recently, though, the general lack of distinction and clarity between critical concepts and terms relating to well-being (e.g., between "happiness" and "life satisfaction", see 1, 2), has resulted in researchers opting to incorporate methodologies from both fields (e.g., in interventions to improve current and future well-being, see 3).
+
+Intra-discipline variation for psychological well-being and subjective well-being research is also high; studies seldom utilize the same questions, research designs, or statistical analyses, and there is little standardization. In a 2019 meta-analysis (4) of well-being research, the authors write
+
+> ... [we] identified 42 well-being measurement instruments, capturing 30 dimensions of positive functioning. Broadly, measures tapped into psychological, psychobiological (e.g., health and physical), and psychosocial well-being. [We] found that measures varied significantly in terms of their explicit operationalization of the constructs they were trying to assess. Although some dimensions of well-being, such as life satisfaction, positive affect, and positive relations with others, were more commonly tapped into than others, no single domain was identified in more than 50% of the instruments. Noting the high degrees of divergence in measurement instruments both between and within theoretical categories (e.g., hedonic, eudaimonic), Cooke et al. (2016) concluded that "...there is little or no consensus as to what constitutes well-being and how it should be measured" (p. 748).
+
+So, as it stands, the field of well-being research is fraught with issues that span the interpretations of the dimensions of well-being, in addition to methodological issues, such as the inconsistency and bias present with subjectively estimates (see 5). Despite these problems, contemporary formulations of individual and collective well-being are still largely considered useful, and are important for an array of different civilizational functions, including policy formation, economic analyses, characterizations of social change, and clinical/medical applications, among others.
+
+Given the widespread adoption of well-being as an indicator, and the magnitude of its influence across societies, there appears to be ample motivation for ensuring that measures of well-being as precise and predictive as possible. In their current, noisy state, measures of well-being fall short of this. One potential solution is to tie well-being to the neuronal processes that underlie it; having a neurological basis for measuring well-being might assuage these aforementioned issues. But before this discussion, it will be useful to more clearly describe how quantifying well-being is useful. Additionally, the connection between well-being and health will lay the groundwork for this discussion on neurological well-being.
