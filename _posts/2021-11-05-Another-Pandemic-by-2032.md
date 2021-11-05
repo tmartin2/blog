@@ -16,7 +16,7 @@ Here is my answer. As with my [AI regulation post](https://tmartin2.github.io/my
 
 (*) BR := Base Rate, ED := Estimated, MT := Meta, FST := For Sake of Time (time limit for this task)
 
-___Main Considerations___ 
+___Main Considerations___
 - BR: Occurrence of natural pandemics
 - BR: Duration of natural pandemics
 - BR: Lethality of natural pandemics
@@ -40,6 +40,7 @@ ___Other Considerations___
 - MT: The above characteristics but for the initial onset region, i.e. where the pandemic begins (death toll of pandemic likely has high sensitivity to initial conditions)
 
 ___Likelihood Estimate___
+
 While I could parse out each consideration in detail, I opt to perform a more rudimentary analysis, given the time constraints.
 
 NCBI “Pandemics Through History” (abbr. PTH) (1) gives 18 major pandemics since 541 AD, which means (2022-541) / 18 = ~82.3 avg. years per pandemic. However, 16 of those 18 pandemics have occurred since 1817, which means that the avg. years between pandemics (in more recent times) is actually closer to (2022-1817) / 16 = ~12.8 years, which FST is around 10 years. So, there is approximately a 50% chance that a natural pandemic occurs (if this seems too high, check the PTH list for pandemics in the the last 20 years) before 2032, under these assumptions.
@@ -61,8 +62,11 @@ FST (strong), eyeballing PTH, all recent pandemics (e.g., SARS-CoV, Influenza A/
 FST (very strong, out of time for this question), I would predict (subjectively; based on Precipice, Metaculus predictions, etc…) that there is <= 2% chance that a human-engineered pandemic kills >= 0.04% of the global population in the next 10 years, so I set the final likelihood estimate to <= 7%.
 
 ___Links___
+
 (1) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874133/  (search ‘pandemic history’)
 (2) https://ourworldindata.org/world-population-growth (search ‘global population growth’)
 (3) https://en.wikipedia.org/wiki/Black_Death (search ‘Black Death’)
 (4) https://ourworldindata.org/covid-vaccinations (search ‘covid global vaccinations’)
 …not doing links anymore given time difficulties
+
+## Criticisms and Additional Considerations
