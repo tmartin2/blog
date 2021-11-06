@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Population Ecology and Neuron Counts"
+title: "Chordata Suffering"
 date: 2021-11-06 12:00:00 -0000
 ---
 
