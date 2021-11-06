@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rough Estimate: U.S. and European AI Regulation"
+title: "U.S. and European AI Regulation"
 date: 2021-11-04 14:15:44 -0000
 ---
 

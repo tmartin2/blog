@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Rough Estimate: Another Deadly Pandemic by 2032"
+title: "Another Deadly Pandemic by 2032"
 date: 2021-11-05 14:28:44 -0000
 ---
 
-__Note__: This is a question I was given on a test task after applying to a fellowship on AI policy (not the same occupational entity as in [Delaying Transformative AI](https://tmartin2.github.io/blog/2021/09/16/Delaying-Transformative-AI.html)). I spent roughly an hour writing my response. Here is the question: 
+__Note__: This is a question I was given on a test task after applying to a fellowship on AI policy (not the same occupational entity as in [Delaying Transformative AI](https://tmartin2.github.io/blog/2021/09/16/Delaying-Transformative-AI.html)). I spent roughly an hour writing my response. Here is the question:
 
 _What is the likelihood that at least one single new pandemic (not SARS-CoV-2 or variants) causes >=0.04% of world population to die within a one year period (as measured by the official reported death toll, not excess deaths) by 2032 Jan 1? Why do you give that answer? What factors are important?_
 

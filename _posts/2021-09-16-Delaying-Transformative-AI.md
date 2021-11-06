@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rough Estimate: Delaying Transformative AI"
+title: "Delaying Transformative AI"
 date: 2021-09-16 14:28:44 -0000
 ---
 
