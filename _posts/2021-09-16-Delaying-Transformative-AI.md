@@ -85,4 +85,4 @@ This is a very important question, and quite a difficult one to forecast. Noneth
 
 My largest "assumptions" concern (1) how well HDI approximates well-being; (2) how global well-being / HDI can be measured; (3) how a transition comparable or more significant than the industrial or agricultural revolutions influences well-being; (4) how impactful transformative AI will be depending on the "when" date; (5) __how to weigh in the future loses or gains when calculating expected well-being value after transformative AI__; (6) how risky transformative AI will be for humanity; (7) how effective AI-safety research is at reducing the risks posed by transformative AI.
 
-## Criticisms and Additional Considerations
+<!-- ## Criticisms and Additional Considerations -->

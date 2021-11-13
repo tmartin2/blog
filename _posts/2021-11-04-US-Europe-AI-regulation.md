@@ -45,4 +45,4 @@ A tightening of AI regulation pertaining to research AND applications of present
 
 From this exercise, it appears now to me that a tightening of regulation would ofter some reduction in the catastrophic risk posed by AI, but not to an extent that would be entirely safe. For society to be entirely safe, I think there would have to be a fundamental shift in governmental and researcher incentives, and/or for AI ethics / safety to be adopted by these actors.
 
-## Criticisms and Additional Considerations
+<!-- ## Criticisms and Additional Considerations -->

@@ -67,4 +67,4 @@ ___Links___
 (4) https://ourworldindata.org/covid-vaccinations (search ‘covid global vaccinations’)
 …not doing links anymore given time difficulties
 
-## Criticisms and Additional Considerations
+<!-- ## Criticisms and Additional Considerations -->
